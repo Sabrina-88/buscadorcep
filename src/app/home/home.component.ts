@@ -2,8 +2,6 @@ import { Component, OnInit } from '@angular/core';
 import { CepService } from '../../Service/cep-service.service';
 import { Cep } from '../../Model-Mockup/cepModel';
 
-
-
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
